@@ -2,6 +2,10 @@
 //  main.cpp
 //  HashTable
 //
+//  a hash table is essentially a dictionary, i.e., a container for (key, value) pairs
+//  keys are mapped to indices (buckets) by a hash function
+//  every bucket is a linked list
+//
 
 #include <iostream>
 

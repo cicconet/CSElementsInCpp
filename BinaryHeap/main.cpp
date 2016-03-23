@@ -2,6 +2,8 @@
 //  main.cpp
 //  BinaryHeap
 //
+//  max-heap
+//
 
 #include <iostream>
 #include <vector>
