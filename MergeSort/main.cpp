@@ -45,6 +45,7 @@ int main(int argc, const char * argv[]) {
     for(int i : A) {
         printf("%d\t", i);
     }
+    printf("\n");
     
     free(T);
     
